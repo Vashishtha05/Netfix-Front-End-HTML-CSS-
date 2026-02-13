@@ -52,5 +52,3 @@ Vashishtha Verma
     Electrical Engineering Student
     Frontend + Machine Learning Enthusiast
 
-
-

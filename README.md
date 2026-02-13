@@ -16,19 +16,41 @@
 ## 📌 Table of Contents
 
 - [🚀 Live Demo](#-live-demo)
-- [🖼️ Preview](#️-preview)
 - [✨ Features](#-features)
 - [🧱 Tech Stack](#-tech-stack)
-- [📂 Folder Structure](#-folder-structure)
-- [⚙️ Installation](#️-installation)
-- [🎯 Learning Goals](#-learning-goals)
-- [📸 Screenshots](#-screenshots)
 - [🧑‍💻 Author](#-author)
-- [⭐ Support](#-support)
 
 ---
 
 ## 🚀 Live Demo
 
 http://127.0.0.1:3000/Web%20Dev/css/Netflix_Clone/index.html
+
+## ✨ Features
+
+✔ Netflix-style UI layout  
+✔ Responsive design using Flexbox & Grid  
+✔ Hero banner section  
+✔ Navigation bar  
+✔ Movie rows layout  
+✔ Clean and modern styling  
+✔ Pure HTML + CSS (No frameworks)
+
+## 🧱 Tech Stack
+
+| Technology | Purpose |
+|---|---|
+| HTML5 | Structure |
+| CSS3 | Styling |
+| Flexbox | Layout |
+| Grid | Responsiveness |
+
+## 🧑‍💻 Author
+
+Vashishtha Verma
+
+    Electrical Engineering Student
+    Frontend + Machine Learning Enthusiast
+
+
 

@@ -30,5 +30,5 @@
 
 ## 🚀 Live Demo
 
-> Add your deployed link here:
+http://127.0.0.1:3000/Web%20Dev/css/Netflix_Clone/index.html
 
